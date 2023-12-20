@@ -1,6 +1,6 @@
 Pixel ToolBox!!
 
-Welcome to "PixelToolBox 1.1v," the program designed to make your Windows operating system experience more seamless and efficient. Here are some benefits that this program offers:
+Welcome to "PixelToolBox ," the program designed to make your Windows operating system experience more seamless and efficient. Here are some benefits that this program offers:
 
 Save Your Time:
 PixelToolBox provides you with a quick and efficient way to download and install a variety of useful tools with just one click, saving you valuable time.
