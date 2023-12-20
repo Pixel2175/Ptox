@@ -31,7 +31,7 @@ class Tool:
 
 tools = {
     "1" : Tool(
-        "EchoX", "d1-1", 1, True,
+        "EchoX", "1", 1, True,
         lambda: "",
         r"https://github.com/UnLovedCookie/EchoX",
         [
@@ -43,7 +43,7 @@ tools = {
     ),
 
     "2" : Tool(
-        "Hone", "d2-1", 1, True,
+        "Hone", "2", 1, True,
         lambda: "",
         r"https://hone.gg",
         [
@@ -55,7 +55,7 @@ tools = {
     ),
 
     "3" : Tool(
-        "ShutUp10++", "d3-1", 1, True,
+        "ShutUp10++", "3", 1, True,
         lambda: "",
         r"https://www.oo-software.com/shutup10",
         [
@@ -67,7 +67,7 @@ tools = {
     ),
 
     "4" : Tool(
-        "Optimizer", "d4-1", 1, False,
+        "Optimizer", "4", 1, False,
         lambda: str(("hellzerg/optimizer")),
         r"https://github.com/hellzerg/optimizer",
         [
@@ -80,7 +80,7 @@ tools = {
     ),
 
     "5" : Tool(
-        "PyDebloatX", "d5-1", 1, True,
+        "PyDebloatX", "5", 1, True,
         lambda: "",
         r"https://github.com/Teraskull/PyDebloatX",
         [
@@ -92,7 +92,7 @@ tools = {
     ),
 
     "6" : Tool(
-        "QuickBoost", "d6-1", 1, True,
+        "QuickBoost", "6", 1, True,
         lambda: "",
         r"https://github.com/SanGraphic/QuickBoost",
         [
@@ -105,7 +105,7 @@ tools = {
 
 
     "7" : Tool(
-        "WindowsSpyBlocker", "d7-1", 1, True,
+        "WindowsSpyBlocker", "7", 1, True,
         lambda: "",
         r"https://github.com/crazy-max/WindowsSpyBlocker",
         [
@@ -117,7 +117,7 @@ tools = {
     ),
 
     "8" : Tool(
-        "PrivateZilla", "d8-1", 1, True,
+        "PrivateZilla", "8", 1, True,
         lambda: "",
         r"https://github.com/builtbybel/privatezilla",
         [
@@ -129,7 +129,7 @@ tools = {
     ),
 
     "9" : Tool(
-        "ZusierAIO", "d9-1", 1, True,
+        "ZusierAIO", "9", 1, True,
         lambda: "",
         r"https://github.com/Zusier/Zusiers-optimization-Batch",
         [
@@ -141,7 +141,7 @@ tools = {
     ),
 
     "10" : Tool(
-        "CoutX", "d10-1", 1, True,
+        "CoutX", "10", 1, True,
         lambda: "",
         r"https://github.com/UnLovedCookie/CoutX",
         [
@@ -153,7 +153,7 @@ tools = {
     ),
 
     "11" : Tool(
-        "InsiderEnroller", "t1-1", 1, False,
+        "InsiderEnroller", "11", 1, False,
         lambda: str(("Jathurshan-2019/Insider-Enroller")),
         r"https://github.com/Jathurshan-2019/Insider-Enroller",
         [
@@ -166,7 +166,7 @@ tools = {
     ),
 
     "12" : Tool(
-        "Windows11Fixer", "t2-1", 1, False,
+        "Windows11Fixer", "12", 1, False,
         lambda: str(("99natmar99/Windows-11-Fixer")),
         r"https://github.com/99natmar99/Windows-11-Fixer",
         [
@@ -179,7 +179,7 @@ tools = {
     ),
 
     "13" : Tool(
-        "DisableRoundedCorners", "t3-1", 1, True,
+        "DisableRoundedCorners", "13", 1, True,
         lambda: "",
         r"https://github.com/valinet/Win11DisableRoundedCorners",
         [
@@ -191,7 +191,7 @@ tools = {
     ),
 
     "14" : Tool(
-        "Fix Drag&Drop", "t4-1", 1, True,
+        "Fix Drag&Drop", "14", 1, True,
         lambda: "",
         r"https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix",
         [
@@ -203,7 +203,7 @@ tools = {
     ),
 
     "15" : Tool(
-        "Winaero Tweaker", "t5-1", 1, True,
+        "Winaero Tweaker", "15", 1, True,
         lambda: "",
         r"https://winaero.com/winaero-tweaker/",
         [
@@ -215,7 +215,7 @@ tools = {
     ),
 
     "16" : Tool(
-        "Process Hacker", "y6-1", 1, True,
+        "Process Hacker", "16", 1, True,
         lambda: "",
         r"https://sourceforge.net/projects/processhacker/",
         [
@@ -227,7 +227,7 @@ tools = {
     ),
 
     "17" : Tool(
-        "REAL", "t7-1", 1, True,
+        "REAL", "17", 1, True,
         lambda: "",
         r"https://github.com/miniant-git/REAL",
         [
@@ -239,7 +239,7 @@ tools = {
     ),
 
     "18" : Tool(
-        "NVCleanstall", "t8-1", 1, True,
+        "NVCleanstall", "18", 1, True,
         lambda: "",
         r"",
         [
@@ -251,7 +251,7 @@ tools = {
     ),
 
     "19" : Tool(
-        "SophiApp", "t9-1", 1, True,
+        "SophiApp", "19", 1, True,
         lambda: str(("Sophia-Community/SophiApp")),
         r"https://github.com/Sophia-Community/SophiApp",
         [
@@ -263,7 +263,7 @@ tools = {
     ),
 
     "20" : Tool(
-        "Choco", "a1-1", 1, True,
+        "Choco", "20", 1, True,
         lambda: "",
         r"https://github.com/xemulat/XToolbox/blob/main/files/choco.bat",
         [
@@ -274,7 +274,7 @@ tools = {
         ]
     ),
     "21" : Tool(
-        "AutoRun", "a1-1", 1, True,
+        "AutoRun", "21", 1, True,
         lambda: "",
         r"https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns",
         [
@@ -285,7 +285,7 @@ tools = {
         ]
     ),
     "22" : Tool(
-        "Wise_Game_Booster", "a1-1", 1, True,
+        "Wise_Game_Booster", "22", 1, True,
         lambda: "",
         r"https://www.wisecleaner.com/wise-game-booster.html",
         [
@@ -296,7 +296,7 @@ tools = {
         ]
     ),
     "23" : Tool(
-        "DriverMax", "a1-1", 1, True,
+        "DriverMax", "23", 1, True,
         lambda: "",
         r"https://www.drivermax.com/",
         [
@@ -307,7 +307,7 @@ tools = {
         ]
     ),
     "24" : Tool(
-        "cpu-z", "a1-1", 1, True,
+        "cpu-z", "24", 1, True,
         lambda: "",
         r"https://www.cpuid.com/softwares/cpu-z.html",
         [
@@ -318,7 +318,7 @@ tools = {
         ]
     ),
     "25" : Tool(
-        "ADW Cleaner", "a1-1", 1, True,
+        "ADW Cleaner", "25", 1, True,
         lambda: "",
         r"https://www.malwarebytes.com/adwcleaner",
         [
@@ -329,7 +329,7 @@ tools = {
         ]
     ),
     "26" : Tool(
-        "Process Lasso", "a1-1", 1, True,
+        "Process Lasso", "26", 1, True,
         lambda: "",
         r"https://bitsum.com/",
         [
@@ -340,7 +340,7 @@ tools = {
         ]
     ),
     "27" : Tool(
-        "Revo Uninstaller", "a1-1", 1, True,
+        "Revo Uninstaller", "27", 1, True,
         lambda: "",
         r"https://www.revouninstaller.com/products/revo-uninstaller-free/",
         [
