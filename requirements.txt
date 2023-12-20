@@ -1,4 +1,0 @@
-requests
-PyQt5
-tqdm
-ctypes
