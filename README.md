@@ -26,10 +26,10 @@ PixelToolBox is designed to simplify your digital life. Try it today and enjoy t
 
 
 
-![1](https://github.com/Pixel2175/Ptox/assets/147437230/7c628fff-b0c5-4c87-865c-5bcb8d697a2c)
+   ![1](https://github.com/Pixel2175/Ptox/assets/147437230/7c628fff-b0c5-4c87-865c-5bcb8d697a2c)
 
 
-![2](https://github.com/Pixel2175/Ptox/assets/147437230/0eb28efe-53d9-412c-97ea-e6527816743f)
+  ![2](https://github.com/Pixel2175/Ptox/assets/147437230/0eb28efe-53d9-412c-97ea-e6527816743f)
 
 
 
